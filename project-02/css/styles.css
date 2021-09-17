@@ -1,0 +1,19 @@
+.navbar-brand {
+    color: peachpuff;
+}
+h1 {
+    color: #212529;
+}
+.cover {
+    padding: 4rem 0;
+    width: auto;
+    background-image: url('../img/jumbotron.png');
+    background-position: center;
+}
+.card {
+    border: none;
+}
+li {
+    line-height: 1.6;
+    margin: 0.5rem;
+}
